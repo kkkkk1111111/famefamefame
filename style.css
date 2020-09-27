@@ -1,0 +1,47 @@
+html {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+html {
+  background-color: #fdfdfd;
+}
+
+body {
+  width: 650px;
+  margin: 0 auto;
+  background-color: 290f1a;
+  padding: 0 20px 20px 20px;
+  border: 5px solid  #faf7f8;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #ffffff;
+  text-shadow: 3px 3px 1px rgb(255, 253, 253);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+p {
+  color: rgba(190, 12, 101, 0.596);
+}
+.u2 {
+  color: rgba(190, 12, 101, 0.596)
+}  
